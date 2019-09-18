@@ -1,6 +1,6 @@
 ---
-title: Donec maximus nisi eget
-image: assets/images/fulls/04.jpg
-thumbnail: assets/images/thumbs/04.jpg
-caption: Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.
+title: Joy (Red Velvet)
+image: assets/images/fulls/8e1953864c4468db576369f8729b3fb0.jpg
+thumbnail: assets/images/fulls/8e1953864c4468db576369f8729b3fb0.jpg
+caption: So Beautiful
 ---
